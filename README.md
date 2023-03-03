@@ -14,3 +14,9 @@ technologies used to build this website:
 <li>HTML5</li>
 <li>CSS3</li>
 <li>VsCode</li>
+
+## How it can help you
+
+### 1- Show your services
+
+Your visitor can select <b>Services</b> from the navigation bar to see your services.
