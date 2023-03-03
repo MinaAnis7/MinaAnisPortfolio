@@ -33,3 +33,9 @@ Select <b>Projects</b> from the navigation bar to see your Projects or You can p
 
 Contact info. page shows your available contacts and social links to make it easy for your clients to reach you!
 
+<img width="946" alt="3" src="https://user-images.githubusercontent.com/89950065/222813695-2a3b2090-c6ce-4f98-a6ad-da45375b2009.png">
+
+### Finally, It's resposive
+
+It works in different kinds of screens!
+
