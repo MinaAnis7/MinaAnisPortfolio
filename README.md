@@ -15,8 +15,12 @@ technologies used to build this website:
 <li>CSS3</li>
 <li>VsCode</li>
 
-## How it can help you
+## How it Can Help You
 
-### 1- Show your services
+### 1- Show Your Services
 
 Your visitor can select <b>Services</b> from the navigation bar to see your services.
+
+<img width="947" alt="1" src="https://user-images.githubusercontent.com/89950065/222811291-68a86112-c900-42bb-88e3-a787eafc20fa.png">
+
+### 2- Show Your Work
