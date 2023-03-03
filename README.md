@@ -37,8 +37,8 @@ Contact info. page shows your available contacts and social links to make it eas
 
 ### Finally, It's resposive
 
-It works in different kinds of screens!
+It works on different kinds of screens!
 
 ![FireShot Capture 001 - Multi Device Website Mockup Generator - techsini com](https://user-images.githubusercontent.com/89950065/222814106-4da04e62-69e0-41c4-8f99-1e3c1b35c1be.png)
 
-Want to have a closer look? Click <a href="https://minaanis7.github.io/MinaAnisPortfolio/" target="_blank">here</a>.
+<b>Want to have a closer look?</b> Click <a href="https://minaanis7.github.io/MinaAnisPortfolio/" target="_blank">here</a>.
