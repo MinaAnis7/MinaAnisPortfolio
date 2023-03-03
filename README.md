@@ -24,3 +24,12 @@ Your visitor can select <b>Services</b> from the navigation bar to see your serv
 <img width="947" alt="1" src="https://user-images.githubusercontent.com/89950065/222811291-68a86112-c900-42bb-88e3-a787eafc20fa.png">
 
 ### 2- Show Your Work
+
+Select <b>Projects</b> from the navigation bar to see your Projects or You can press <b>Veiw My Work</b> button at the top of the page.
+
+<img width="946" alt="2" src="https://user-images.githubusercontent.com/89950065/222812219-25be70ad-9123-4a2d-a753-a38443f4c33e.png">
+
+### 3- Your Contact Info.
+
+Contact info. page shows your available contacts and social links to make it easy for your clients to reach you!
+
