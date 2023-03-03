@@ -4,8 +4,8 @@
 ## Table of Contents
 
 <li><a href="#describtion">Describtion</a></li>
-<li><a href="#tech">Describtion</a></li>
-<li><a href="#use">Describtion</a></li>
+<li><a href="#tech">Used Technologies</a></li>
+<li><a href="#use">How it Can Help You</a></li>
 
 ## <div id="describtion">Describtion</div>
 
